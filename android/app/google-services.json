@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153896417875",
+    "firebase_url": "https://cota-facil.firebaseio.com",
+    "project_id": "cota-facil",
+    "storage_bucket": "cota-facil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153896417875:android:eb3ac8e676383688ade4a6",
+        "android_client_info": {
+          "package_name": "com.example.cota_facil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153896417875-p5doj71ur6amc8l70mb5gekcto6u8ev8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cota_facil",
+            "certificate_hash": "6f0d15b50d5b55207f4fcc020f33bf40df66bd25"
+          }
+        },
+        {
+          "client_id": "153896417875-um97ls55r00d61s0and9bf6jfrt05joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzG0Huen_RUMc4jOdUM8XNa5TZOhG4oF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153896417875-um97ls55r00d61s0and9bf6jfrt05joi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
